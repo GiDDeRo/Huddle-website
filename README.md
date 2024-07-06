@@ -31,7 +31,7 @@ ___
 
 #### Mobile :iphone:
 ![](./design/Instagram%20device%20mockup%20post/3.png)
-![Mobile Page Insights](./images/Mobile%20Page%20insights.PNG)
+![Mobile Page Insights](./images/Mobile%20Page%20Insights.PNG)
 ### Links
 ____
 |||

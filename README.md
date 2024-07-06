@@ -36,8 +36,8 @@ ___
 ____
 |||
 | :------ | :-------- |
-| Solution URL: | |
-| Live Site URL: | |
+| Solution URL: |https://www.frontendmentor.io/solutions/huddle-landing-page-wibNtq4-Yc |
+| Live Site URL: | https://giddero.github.io/Huddle-website/ |
 ||| 
 
 ### The Challenge :man_technologist:
